@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Code && Friends
+An app where "friends" are connected based off programming language to perform problem solving coding questions in an allotted amount of time and then can discuss it afterwards.
+It utilizes React as the frontend and Firebase as the backend.
 
 ## Available Scripts
 
